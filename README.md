@@ -109,11 +109,4 @@ Thank you for using ContactVault.
 Goodbye!
 ```
 
-## Future Improvements
 
-- SQLite/JDBC for proper database storage
-- GUI with JavaFX or Swing
-- REST API with Spring Boot
-- Web frontend (React or plain HTML)
-- Mobile client
-- Export contacts to CSV or vCard
